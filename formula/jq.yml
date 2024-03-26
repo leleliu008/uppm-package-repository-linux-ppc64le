@@ -1,0 +1,5 @@
+summary: Lightweight and flexible command-line JSON processor
+webpage: https://stedolan.github.io/jq
+version: 1.6 
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-ppc64le/releases/download/2023.06.22/jq-1.6-linux-ppc64le.tar.xz 
+bin-sha: 6d2d48d408c9cf4d29992d18c5d7d3f320fca1944526d70fd9d4bdc9ee503934

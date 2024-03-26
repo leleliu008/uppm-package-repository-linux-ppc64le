@@ -1,0 +1,5 @@
+summary: C XSLT library for GNOME
+webpage: http://xmlsoft.org/XSLT
+version: 1.1.37 
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-ppc64le/releases/download/2023.06.22/xsltproc-1.1.37-linux-ppc64le.tar.xz 
+bin-sha: d15199c8e726838e3cb62ac6c05bdff2259cfaa9d72c7e3a2f38007965bf87cc

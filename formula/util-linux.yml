@@ -1,0 +1,5 @@
+summary: Collection of Linux utilities
+webpage: https://github.com/util-linux/util-linux
+version: 2.39 
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-ppc64le/releases/download/2023.06.22/util-linux-2.39-linux-ppc64le.tar.xz 
+bin-sha: e13e83218f6d413241cf1523a279b15f4e57ea7b4dd8d19d014bf1232742567d

@@ -1,0 +1,5 @@
+summary: utilities provided by libxml2
+webpage: http://xmlsoft.org
+version: 2.10.3 
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-ppc64le/releases/download/2023.06.22/libxml2-utils-2.10.3-linux-ppc64le.tar.xz 
+bin-sha: 7edb1da5ae4153127fec2961ae4664c0c72350fa1839aacfc4702e507fb1f29f

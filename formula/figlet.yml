@@ -1,0 +1,5 @@
+summary: Banner-like program prints strings as ASCII art
+webpage: http://www.figlet.org/
+version: 2.2.5 
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-ppc64le/releases/download/2023.06.22/figlet-2.2.5-linux-ppc64le.tar.xz 
+bin-sha: df6e6e3e1d1eccd55c36cfa51697284a9da78abf43b58969d812a48da3d30edd

@@ -1,0 +1,5 @@
+summary: GitHub command-line tool
+webpage: https://github.com/cli/cli
+version: 2.30.0 
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-ppc64le/releases/download/2023.06.22/gh-2.30.0-linux-ppc64le.tar.xz 
+bin-sha: 8ac15e59341969d028f9851d7459f2e4fe55eb14478df863b39e72d7caa06fba

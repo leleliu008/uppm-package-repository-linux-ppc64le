@@ -1,0 +1,5 @@
+summary: Small build system for use with gyp or CMake
+webpage: https://ninja-build.org/
+version: 1.11.1 
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-ppc64le/releases/download/2023.06.22/ninja-1.11.1-linux-ppc64le.tar.xz 
+bin-sha: 9215cb8dbe831e7dbf786a07065f57541444d7abbaaaee31f074a4bc77ca4cef

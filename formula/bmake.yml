@@ -1,0 +1,5 @@
+summary: Portable version of NetBSD make(1)
+webpage: https://www.crufty.net/help/sjg/bmake.html
+version: 20230522 
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-ppc64le/releases/download/2023.06.22/bmake-20230522-linux-ppc64le.tar.xz 
+bin-sha: 38c0525ef23a6add0d27f3625de23abf3a6203e77d2ae351b1db3eaadb3f1e17

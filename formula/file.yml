@@ -1,0 +1,5 @@
+summary: Utility to determine file types
+webpage: https://www.darwinsys.com/file
+version: 5.44 
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-ppc64le/releases/download/2023.06.22/file-5.44-linux-ppc64le.tar.xz 
+bin-sha: 510fefbef7d4c5d49f0e276d3bf80ec19dae57daaf864fab51c062b3123db247

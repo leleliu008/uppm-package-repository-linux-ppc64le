@@ -1,0 +1,5 @@
+summary: a command-line tool to get your system information.
+webpage: https://github.com/leleliu008/C-examples
+version: 2023.06.22 
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-ppc64le/releases/download/2023.06.22/sysinfo-2023.06.22-linux-ppc64le.tar.xz 
+bin-sha: 24297cb6c1600f71466445a73f7de979a16ff034fbcffc739986f6c561d0da65

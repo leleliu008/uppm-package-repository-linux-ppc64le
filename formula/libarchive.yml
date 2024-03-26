@@ -1,0 +1,5 @@
+summary: Multi-format archive and compression library
+webpage: https://www.libarchive.org/
+version: 3.6.2 
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-ppc64le/releases/download/2023.06.22/libarchive-3.6.2-linux-ppc64le.tar.xz 
+bin-sha: ac257df6ac9978b3c029b0fd1bdba266d3470c8ad72cf799aff7a67b38f2ff75

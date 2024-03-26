@@ -1,0 +1,5 @@
+summary: Display directories as trees (with optional color/HTML output)
+webpage: http://mama.indstate.edu/users/ice/tree
+version: 2.1.1 
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-ppc64le/releases/download/2023.06.22/tree-2.1.1-linux-ppc64le.tar.xz 
+bin-sha: d43b0e0f9da01c875a9015b508c70edf7407e8f48b1a5c09f6c4a155e8128852

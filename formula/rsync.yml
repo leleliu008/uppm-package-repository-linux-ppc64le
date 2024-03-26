@@ -1,0 +1,5 @@
+summary: Utility that provides fast incremental file transfer
+webpage: https://rsync.samba.org/
+version: 3.2.7 
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-ppc64le/releases/download/2023.06.22/rsync-3.2.7-linux-ppc64le.tar.xz 
+bin-sha: 0412c1678b71fcb97e6bd9028e86eebbbcf0413b8b90c82eafa492b21af394af

@@ -1,0 +1,5 @@
+summary: Apply a diff file to an original
+webpage: https://savannah.gnu.org/projects/patch
+version: 2.7.6 
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-ppc64le/releases/download/2023.06.22/patch-2.7.6-linux-ppc64le.tar.xz 
+bin-sha: 1be5f78a41cc3982567ca3ea30a5dfdfa013615dd462659b20b94aed7c94ed07

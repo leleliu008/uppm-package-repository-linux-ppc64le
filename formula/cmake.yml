@@ -1,0 +1,5 @@
+summary: Cross-platform make
+webpage: https://www.cmake.org/
+version: 3.26.4 
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-ppc64le/releases/download/2023.06.22/cmake-3.26.4-linux-ppc64le.tar.xz 
+bin-sha: 45d29eea565a28abddfb0f9fea204693add7ab33aef438ec8a51f943be09c2f8

@@ -1,0 +1,6 @@
+summary: Helper program to build and install c-like libraries
+webpage: https://github.com/lu-zero/cargo-c
+version: 0.9.21
+bin-url: https://github.com/lu-zero/cargo-c/releases/download/v0.9.21/cargo-c-powerpc64le-unknown-linux-gnu.tar.gz
+bin-sha: 2d9d7132170948982808ba1a2d3eef680bf814ffae27da95e8ec02b0d90983b7
+unpackd: bin

@@ -1,0 +1,5 @@
+summary: GNU version of the tar archiving utility
+webpage: https://www.gnu.org/software/tar
+version: 1.34 
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-ppc64le/releases/download/2023.06.22/gtar-1.34-linux-ppc64le.tar.xz 
+bin-sha: f54f3a65b2988b796453c96a84c06d2766dea5c81ab59c538102529ebf233561
