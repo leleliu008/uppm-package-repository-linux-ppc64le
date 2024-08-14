@@ -1,0 +1,5 @@
+summary: A fast and flexible static site generator
+webpage: https://gohugo.io
+version: 0.124.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-ppc64le/releases/download/2024.08.14/hugo-0.124.1-linux-musl-ppc64le.tar.xz
+bin-sha: d44d5560c561cb161c16e19f6ee8fa53b5516a5fa45c8eebc8abb9aa366809dd

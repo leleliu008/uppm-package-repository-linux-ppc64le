@@ -1,0 +1,5 @@
+summary: A lightweight download accelerator
+webpage: https://github.com/axel-download-accelerator/axel
+version: 2.17.13
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-ppc64le/releases/download/2024.08.14/axel-2.17.13-linux-ppc64le.tar.xz
+bin-sha: 0d1dfbde1df4e25f0b3e34161d585d0ec959162f8e72c82570dfcbce654df3f1

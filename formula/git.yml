@@ -1,5 +1,5 @@
 summary: Distributed revision control system
 webpage: https://git-scm.com/
-version: 2.41.0 
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-ppc64le/releases/download/2023.06.22/git-2.41.0-linux-ppc64le.tar.xz 
-bin-sha: 9f6287f5273a2b720e4c55271e492a88e845b1a3fbb602d43bc35251518cf270
+version: 2.44.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-ppc64le/releases/download/2024.08.14/git-2.44.0-linux-ppc64le.tar.xz
+bin-sha: deb32ce74df5f8a2e9a5b64f61b1aa83904ab675fa8e95860f5a1fd345825e62

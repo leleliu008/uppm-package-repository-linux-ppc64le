@@ -1,0 +1,5 @@
+summary: Go git service
+webpage: https://gogs.io
+version: 0.12.10
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-ppc64le/releases/download/2024.08.14/gogs-0.12.10-linux-ppc64le.tar.xz
+bin-sha: bf2a7ddcb92f3f0bfe7a051eb14eef73b931d837ff2d065f81313f1cf2fe0826

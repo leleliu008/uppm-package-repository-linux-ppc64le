@@ -1,5 +1,5 @@
-summary: a collections of easy to use command-line utilities
+summary: A collections of easy to use command-line utilities
 webpage: https://github.com/leleliu008/C-examples
-version: 2023.06.22 
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-ppc64le/releases/download/2023.06.22/easyutils-2023.06.22-linux-ppc64le.tar.xz 
-bin-sha: 94337be4bc2362e9b43d83899d75d4207905edf66baa2cc8b4cf9286ccd55b91
+version: 2024.08.14
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-ppc64le/releases/download/2024.08.14/easyutils-2024.08.14-linux-ppc64le.tar.xz
+bin-sha: 2ab9c6d20dfa204a7e24865a870ab6c4aaefcecafb6b50fe7e1fa6d8d27076d5

@@ -1,0 +1,5 @@
+summary: A collections of command-line utilities provided by libxml2
+webpage: http://xmlsoft.org
+version: 2.12.7
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-ppc64le/releases/download/2024.08.14/xmlutils-2.12.7-linux-ppc64le.tar.xz
+bin-sha: 3f8e3d216ef791cd95d83ec329a4fb2caa337c3344e4e7ca150324d4a750d300

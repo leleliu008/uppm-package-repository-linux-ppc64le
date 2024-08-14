@@ -1,0 +1,5 @@
+summary: Download with resuming and segmented downloading
+webpage: https://aria2.github.io
+version: 1.37.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-ppc64le/releases/download/2024.08.14/aria2-1.37.0-linux-musl-ppc64le.tar.xz
+bin-sha: 9876ddd340867514710ff497a6cdc76d390923c62af1b656a8dd689433ae5cfe

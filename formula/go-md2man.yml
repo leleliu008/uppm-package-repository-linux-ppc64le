@@ -1,0 +1,5 @@
+summary: Converts markdown into roff (man pages)
+webpage: https://github.com/cpuguy83/go-md2man
+version: 2.0.4
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-ppc64le/releases/download/2024.08.14/go-md2man-2.0.4-linux-ppc64le.tar.xz
+bin-sha: da63f2069fd0e74f6ab42aaa59b4025da8b06b70704da85180bee13712d523d7

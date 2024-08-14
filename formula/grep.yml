@@ -1,5 +1,5 @@
 summary: GNU grep, egrep and fgrep
 webpage: https://www.gnu.org/software/grep
-version: 3.11 
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-ppc64le/releases/download/2023.06.22/grep-3.11-linux-ppc64le.tar.xz 
-bin-sha: a36338d07aa2d26410ae7ec74a316c02d81dc048b9e4c2088a79019db64452b8
+version: 3.11
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-ppc64le/releases/download/2024.08.14/grep-3.11-linux-ppc64le.tar.xz
+bin-sha: 64e68703680a98934f84d2a15f1987ef0a0ad941a369f5b817e04fba3f56f052

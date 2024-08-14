@@ -1,5 +1,5 @@
-summary: Cross-platform build utility based on Lua
+summary: A cross-platform build utility based on Lua
 webpage: https://xmake.io/
-version: 2.7.9 
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-ppc64le/releases/download/2023.06.22/xmake-2.7.9-linux-ppc64le.tar.xz 
-bin-sha: 4422612b84e82733a56476a75d60c7ea4e053f3d5e9a363a40d93c7f93c3d70c
+version: 2.9.4
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-ppc64le/releases/download/2024.08.14/xmake-2.9.4-linux-musl-ppc64le.tar.xz
+bin-sha: a39938ad14af79f9985039f8b1aaab8dd72779f285760743c2a48eebe6bc51a5
