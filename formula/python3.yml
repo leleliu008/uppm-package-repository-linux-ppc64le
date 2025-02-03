@@ -1,0 +1,5 @@
+summary: python3 runtime
+webpage: https://www.python.org/
+version: 3.11.11
+bin-url: https://github.com/leleliu008/python-distribution/releases/download/3.11.11/python-3.11.11-linux-any-ppc64le.tar.xz
+bin-sha: 8f87bff4030c74a281ad9c0ab8342d58d41a3fca86387b85d2f3814854060a9c
