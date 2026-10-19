@@ -1,0 +1,6 @@
+summary: A general-purpose programming language and toolchain for maintaining robust, optimal and reusable software
+webpage: https://ziglang.org/
+bin-url: https://ziglang.org/download/0.17.0/zig-powerpc64le-linux-0.17.0.tar.xz
+bin-sha: 731e2887e66fff41fdc34f7fd9d8afa814d86d7426f5827805f8854b2977684b
+version: 0.17.0
+unpackd: bin
