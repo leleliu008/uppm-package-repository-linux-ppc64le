@@ -1,5 +1,5 @@
 summary: Open source programming language to build simple/reliable/efficient software
 webpage: https://go.dev/
-bin-url: https://go.dev/dl/go1.26.9.linux-ppc64le.tar.gz
-bin-sha: a21a65001146ca0c6c022c690d5418f8298c5513a81fb5eed42f6cdb29f40063
-version: 1.26.9
+bin-url: https://go.dev/dl/go1.26.11.linux-ppc64le.tar.gz
+bin-sha: d0e8ef5248235b37c8eeac5af51b6cf114db3640226ed82b44d4af0d6341a490
+version: 1.26.11
